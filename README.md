@@ -4,6 +4,6 @@ FUCKMATLAB FVCKEXP FUCKPEOPLE FUCKHOMEWORK FUCKMOSQUITO <br>FUCKMONEY FUCKPOOR F
 
 LOVE Everyone🥰🥰
 - 📫 How to reach me: +86 18617715681
-- 😄 Pronouns: LG
+- 😄 Pronouns: 小朱
 
 
