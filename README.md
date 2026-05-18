@@ -9,7 +9,7 @@
 
 - Ask me about anything
 
-- How to reach me **ytzhu@tju.edu.cn** or +86 18617715681（wechat）
+- How to reach me **ytzhu@tju.edu.cn** or **akidforseven@gmail.com**
 
 <h3 align = "left">Languages and Tools:</h3>
 
