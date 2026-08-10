@@ -21,4 +21,6 @@
   <img src="https://www.svgrepo.com/show/452183/cpp.svg" alt="cpp logo" width="40" height"40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis logo" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux logo" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354140/opengl.svg" alt="OpenGL logo" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354529/vulkan.svg" alt="Vulkan logo" width="40" height="40"/>
 </p>
