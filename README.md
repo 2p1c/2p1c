@@ -23,4 +23,5 @@
   <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux logo" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354140/opengl.svg" alt="OpenGL logo" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354529/vulkan.svg" alt="Vulkan logo" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="TypeScript logo" width="40" height="40"/>
 </p>
