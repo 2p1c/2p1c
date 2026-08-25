@@ -16,7 +16,6 @@
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker logo" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB logo" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" alt="PyTorch logo" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452183/cpp.svg" alt="cpp logo" width="40" height"40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis logo" width="40" height="40"/>
