@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yutong</h1>
-<h3 align="center">Master of Electronic and Information from TJU</h3>
+<h3 align="center">Master of Electronic Information from TJU</h3>
 
-- I'm currently studying as **Master of Electronic and Information** in the Acoustics Laboratory
+- I'm currently studying as **Master of Electronic Information** in the Acoustics Laboratory
 
 - I'm currently learning **embodied-ai** and **full-stack development**
 
