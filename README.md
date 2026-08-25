@@ -3,11 +3,11 @@
 
 - I'm currently studying as **Master of Electronic and Information** in the Acoustics Laboratory
 
-- I'm currently learning **embodied-ai**
+- I'm currently learning **embodied-ai** and **full-stack development**
 
-- I’m looking to collaborate on **full-stack projects** and **embodied-ai programs**
+- I’m looking for **job opportunities**
 
-- Ask me about anything
+- There is my [blog website](https://yutongzhu.site), ask me about anything
 
 - How to reach me **ytzhu@tju.edu.cn** or **akidforseven@gmail.com**
 
